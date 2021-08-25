@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	text-align: center;
+	font-size:80px;
+	background: #F6CEF5;
+	margin: 0 auto;
+}
+.네비{
+	margin-left: 40px;
+	background: #F6CEF5;
+	list-style: none;
+}
+.index{
+	text-align: center;
+	margin: 30px;
+}
+p{
+	margin-left: 20px;
+}
+footer{
+	text-align: center;
+	background: #F6CEF5;
+	font-size: 30px;
+}
+
+
+
+
